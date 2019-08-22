@@ -1,4 +1,4 @@
-Demo: [Live App] (https://5g1mi.csb.app/)
+Demo: [Live App](https://5g1mi.csb.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
